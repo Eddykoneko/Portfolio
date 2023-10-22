@@ -1,3 +1,10 @@
+This is my portfolio
+
+![portfolio](https://github.com/Eddykoneko/Portfolio/assets/128144776/db19417e-946d-4ce0-8743-36fd9277ea36)
+
+
+
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
